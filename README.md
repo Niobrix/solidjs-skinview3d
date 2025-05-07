@@ -29,8 +29,8 @@ function App() {
   return (
     <div style={{ width: '300px', height: '400px' }}>
       <SolidSkinView3D
-        skinUrl="https://textures.minecraft.net/texture/3b60a1f6d562f52aaebbf5369cfdbdc0a2adf5f7c9843d5f3819b908496f6209"
-        capeUrl="https://textures.minecraft.net/texture/2340c0e03dd24a11b15a8b33c2a7e9e32abb2051b2481d0ba7defd635ca7a933"
+        skinUrl="skin.png"
+        capeUrl="cape.png"
         width={300}
         height={400}
         autoRotate={true}
