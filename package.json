@@ -1,5 +1,5 @@
 {
-  "name": "solidjs-skinview3d",
+  "name": "@niobrix/solidjs-skinview3d",
   "version": "1.0.0",
   "description": "A SolidJS wrapper for SkinView3D",
   "license": "MIT",
@@ -87,8 +87,8 @@
     "pnpm": ">=9.0.0"
   },
   "dependencies": {
+    "@niobrix/solidjs-skinview3d": "file:",
     "skinview3d": "^3.4.1",
-    "solidjs-skinview3d": "file:",
     "three": "^0.176.0"
   }
 }
