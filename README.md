@@ -4,7 +4,8 @@
 
 # solidjs-skinview3d
 
-[![pnpm](https://img.shields.io/badge/maintained%20with-pnpm-cc00ff.svg?style=for-the-badge&logo=pnpm)](https://pnpm.io/)
+[![pnpm](https://img.shields.io/badge/maintained%20with-pnpm-cc00ff.svg?style=for-the-badge&logo=pnpm)](https://pnpm.io/)     [![NPM Last Update](https://img.shields.io/npm/last-update/%40niobrix%2Fsolidjs-skinview3d?style=for-the-badge&logo=npm&label=NPM&labelColor=cf1515)](https://www.npmjs.com/package/@niobrix/solidjs-skinview3d)
+
 
 SolidJS wrapper component for [SkinView3D](https://github.com/bs-community/skinview3d), which allows you to easily integrate 3D Minecraft skin preview into your SolidJS application.
 
